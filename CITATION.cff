@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If this overiew is useful to you, please cite as below."
+authors:
+  - family-names: Xu
+    given-names: Feng
+    orcid: https://orcid.org/0000-0002-1955-6194
+title: "Awesome Scene Graph Generation - A curated list of resources on Scene Graph Generation (SGG) "
+version: 1.0.0
+url: https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics
